@@ -1,0 +1,164 @@
+{
+  "storeName": "Navya Candle Studio",
+  "whatsapp": "919873863591",
+  "email": "",
+  "address": "Delhi, India",
+  "shippingCharge": 165,
+  "offerMinOrder": 2000,
+  "offerAmountOff": 100,
+  "categories": [
+    {
+      "name": "Tealights",
+      "slug": "tealights",
+      "blurb": "Hand-carved flower tealights, four hours each"
+    },
+    {
+      "name": "Tin Candles",
+      "slug": "tin-candles",
+      "blurb": "Mandala-print travel tins with pressed petals"
+    },
+    {
+      "name": "Tart Candles",
+      "slug": "tart-candles",
+      "blurb": "Gold-rimmed shell candles, individually poured"
+    },
+    {
+      "name": "Shaped Candles",
+      "slug": "shaped-candles",
+      "blurb": "Sculpted centrepieces — flowers, hearts, figures"
+    }
+  ],
+  "products": [
+    {
+      "name": "Gold Leaf Tealight Cups",
+      "scent": "Vanilla musk, 24k gold flake, set of 4",
+      "price": 449,
+      "mrp": 549,
+      "category": "tart-candles",
+      "stock": 24,
+      "tag": "Bestseller",
+      "image": "gold-leaf-tealight-cups.jpg"
+    },
+    {
+      "name": "Eternal Embrace",
+      "scent": "Unscented soy sculpture, white",
+      "price": 1299,
+      "mrp": 1599,
+      "category": "shaped-candles",
+      "stock": 10,
+      "tag": "Signature",
+      "image": "eternal-embrace.jpg"
+    },
+    {
+      "name": "Rose Mandala Tin",
+      "scent": "Bulgarian rose, dried petals, 120g",
+      "price": 399,
+      "mrp": 499,
+      "category": "tin-candles",
+      "stock": 35,
+      "tag": "",
+      "image": "rose-mandala-tin.jpg"
+    },
+    {
+      "name": "Mandala Tin Quad",
+      "scent": "Rose & vanilla, set of 4 travel tins",
+      "price": 1299,
+      "mrp": 1599,
+      "category": "tin-candles",
+      "stock": 18,
+      "tag": "Gifting",
+      "image": "mandala-tin-quad.jpg"
+    },
+    {
+      "name": "Lavender Bloom",
+      "scent": "French lavender, brass flower mould",
+      "price": 749,
+      "mrp": 899,
+      "category": "shaped-candles",
+      "stock": 20,
+      "tag": "New",
+      "image": "lavender-bloom.jpg"
+    },
+    {
+      "name": "Blossom Heart",
+      "scent": "Vanilla amber, wooden heart mould",
+      "price": 699,
+      "mrp": 849,
+      "category": "shaped-candles",
+      "stock": 22,
+      "tag": "",
+      "image": "blossom-heart.jpg"
+    },
+    {
+      "name": "Blue Lotus",
+      "scent": "White musk, hand-painted petals",
+      "price": 799,
+      "mrp": 999,
+      "category": "shaped-candles",
+      "stock": 16,
+      "tag": "",
+      "image": "blue-lotus.jpg"
+    },
+    {
+      "name": "Daisy Tealights · Rainbow 20",
+      "scent": "Assorted florals, gift box of 20",
+      "price": 899,
+      "mrp": 1099,
+      "category": "tealights",
+      "stock": 40,
+      "tag": "Value",
+      "image": "daisy-tealight-rainbow.jpg"
+    },
+    {
+      "name": "Leaf & Blossom Tart",
+      "scent": "Green tea, rose & gold leaf, pair",
+      "price": 449,
+      "mrp": 549,
+      "category": "tart-candles",
+      "stock": 30,
+      "tag": "",
+      "image": "leaf-blossom-tart.jpg"
+    },
+    {
+      "name": "Hibiscus Tart Duo",
+      "scent": "Hibiscus & jasmine, gold-rim shell, pair",
+      "price": 479,
+      "mrp": 599,
+      "category": "tart-candles",
+      "stock": 26,
+      "tag": "",
+      "image": "hibiscus-tart-duo.jpg"
+    },
+    {
+      "name": "Hibiscus Tart Single",
+      "scent": "Hibiscus & jasmine, gold-rim shell",
+      "price": 279,
+      "mrp": 349,
+      "category": "tart-candles",
+      "stock": 34,
+      "tag": "",
+      "image": "hibiscus-tart-single.jpg"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Ritu S.",
+      "city": "Lucknow",
+      "rating": 5,
+      "body": "The gold flake tealights look far more premium than the price suggests, great for gifting."
+    },
+    {
+      "name": "Arjun M.",
+      "city": "Gurugram",
+      "rating": 5,
+      "body": "Ordered the mandala tin quad for our office Diwali, the tins alone made it feel expensive."
+    },
+    {
+      "name": "Fatima K.",
+      "city": "Hyderabad",
+      "rating": 5,
+      "body": "The hugging couple candle is almost too pretty to light. Arrived perfectly packed."
+    }
+  ],
+  "phone": "+91 98738 63591"
+}
